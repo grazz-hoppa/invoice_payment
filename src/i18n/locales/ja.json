@@ -1,0 +1,56 @@
+// src/i18n/locales/ja.json
+{
+  "app": {
+    "title": "請求書管理システム"
+  },
+  "header": {
+    "title": "ダッシュボード"
+  },
+  "sidebar": {
+    "dashboard": "ダッシュボード",
+    "invoices": "請求書一覧",
+    "upload": "アップロード",
+    "approval": "承認フロー"
+  },
+  "dashboard": {
+    "title": "ダッシュボード",
+    "pendingInvoices": "未処理請求書",
+    "totalAmount": "合計金額",
+    "overdue": "支払い遅延",
+    "monthlyTrend": "月次推移",
+    "chartPlaceholder": "グラフ表示エリア"
+  },
+  "invoiceList": {
+    "title": "請求書一覧",
+    "search": "検索",
+    "filter": "フィルター",
+    "invoiceNumber": "請求書番号",
+    "supplier": "仕入先",
+    "amount": "金額",
+    "dueDate": "支払期日",
+    "status": "ステータス",
+    "actions": "操作",
+    "view": "詳細"
+  },
+  "invoiceUpload": {
+    "title": "請求書アップロード",
+    "dragAndDrop": "ファイルをドラッグ＆ドロップ、または選択してください",
+    "dropHere": "ここにファイルをドロップしてください",
+    "supportedFormats": "対応フォーマット: PDF, PNG, JPG",
+    "uploadHistory": "アップロード履歴",
+    "noUploads": "アップロード履歴がありません"
+  },
+  "approvalFlow": {
+    "title": "承認フロー",
+    "amount": "金額",
+    "currentApprover": "現在の承認者",
+    "approve": "承認",
+    "reject": "却下"
+  },
+  "status": {
+    "pending": "未処理",
+    "approved": "承認済",
+    "rejected": "却下",
+    "paid": "支払済"
+  }
+}
